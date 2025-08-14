@@ -24,5 +24,4 @@ root/
 - **AI API:** OpenAI GPT
 - **Other Tools:** Axios, dotenv, CORS
 
-## 🚀 Live Demo
-link: https://smart-gpt.onrender.com
+
